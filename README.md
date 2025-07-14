@@ -22,6 +22,9 @@ alam@ucsd.edu
 
 https://www.linkedin.com/in/allan-lam/
 
+## What is Computational Social Science?
+Computational Social Science (CSS) is an interdisciplinary field that blends social science theory with computational tools. CSS researchers apply data science methods to study complex social behaviors. With training in both statistics and psychology, I aim to bridge the gap between human behavior and data-driven innovation.
+
 <!--
 **AllanLitLam/allanlitlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
