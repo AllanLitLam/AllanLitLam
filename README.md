@@ -1,3 +1,4 @@
+#Allan Lam
 Hello! I’m a Ph.D. candidate in Experimental Psychology with a specialization in Computational Social Science at UC San Diego!
 
 🧠 I have a background in behavioral research with a strong foundation in human cognition, decision-making, and user-centered design.
