@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 UXR Identity & Goals
+## 🧠 UXR Goals
 
 As a behavioral scientist transitioning into UX research, I combine rigorous experimental design with a deep interest in how people think, decide, and interact with complex systems. I approach user research scientifically, with clear hypotheses, structured observation, and data-driven insights.
 
