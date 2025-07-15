@@ -1,38 +1,79 @@
-
 # Allan Lam
-Hello! I’m a Ph.D. candidate in Experimental Psychology with a specialization in Computational Social Science at UC San Diego!
+
+👋 Hello! I’m a Ph.D. candidate in Experimental Psychology at UC San Diego, specializing in Computational Social Science. I study human memory and decision-making using behavioral experiments, statistical modeling, and data visualization. My current work focuses on applying psychological science to real-world problems, specifically from the legal systems to human-centered design.
 
 ---
 
-## Interests
-- 🧠 I have a background in behavioral research with a strong foundation in human cognition, decision-making, and user-centered design.
+## 🧠 UXR Identity & Goals
 
-- 🔭 I’m currently researching eyewitness identification and memory mechanisms in police lineups. I also investigate social judgements of faces. 
+As a behavioral scientist transitioning into UX research, I combine rigorous experimental design with a deep interest in how people think, decide, and interact with complex systems. I approach user research scientifically, with clear hypotheses, structured observation, and data-driven insights.
 
-- 🌱 I’m currently learning UX research methodologies to design better human-centered products and technologies.
-
-- 🚀 In the future, I hope to continue transforming abstract data into insights that explain behavior and inform better decisions. 
-
----
-
-## Languages & Tools: 
-- R, Qualtrics, JavaScript, Notion, Figma
+💼 I have:
+- Designed multi-condition behavioral studies with hundreds of participants
+- Conducted ROC and signal detection analyses to evaluate user decision quality
+- Communicated insights to both technical and non-technical audiences
+- Taught ROC analysis and calibration analysis to undergraduate courses (PSYC162 Psychology and the Law) 
 
 ---
 
-## Skills: 
-- ROC analysis, GLM, NHST, experimental design, human subjects research
+## 🔍 Current Research Interests
+
+- **Eyewitness Identification**: Studying how visual similarity and task design affect decision accuracy in police lineups  
+- **Face Perception & Social Judgments**: Understanding how people form impressions of others based on visual cues  
+- **Memory Models in Lineups**: Applying memory models to improve information display, attention guidance, and user choice
 
 ---
 
-## Reach me: 
-- alam@ucsd.edu 
+## 🛠️ Tools & Languages
 
-- https://www.linkedin.com/in/allan-lam/
+- **Research Tools**: R, Qualtrics, dplyr, ggplot2, tidyverse  
+- **UX & Prototyping**: Figma, Notion, JavaScript  
+- **Workflow**: GitHub, Markdown, Excel
+
+---
+
+## 📚 Skills Snapshot
+
+- Experimental Design (A/B testing, factorial designs)
+- ROC / Signal Detection Theory (discriminability modeling)
+- Generalized Linear Models (GLM, ANOVA, logistic regression)
+- User-Centered Research (survey design, task analysis, interview protocols)
+- Data Wrangling & Visualization (dplyr, ggplot2, tidyverse)
 
 ---
 
-## What is Computational Social Science?
-Computational Social Science (CSS) is an interdisciplinary field that blends social science theory with computational tools. CSS researchers apply data science methods to study complex social behaviors. With training in both statistics and psychology, I aim to bridge the gap between human behavior and data-driven innovation.
+## 🎯 Career Objective
+
+I’m passionate about transforming cognitive theories into actionable insights that improve products, policies, and user experiences. Whether it’s refining a prototype or evaluating decision accuracy, I aim to bring clarity and rigor to complex human behavior.
+
+As a UX researcher, I want to help teams:
+- Make research-informed design decisions  
+- Understand user limitations and goals  
+- Reduce cognitive friction in digital systems  
+- Ensure that interfaces align with how people actually think and remember
 
 ---
+
+## ✨ Impact Statement
+
+I believe UX research is at its best when it combines the empathy of design with the structure of science. With a foundation in experimental psychology and a love for data, I aim to design for both usability and meaning, creating experiences that respect human limits while supporting human goals.
+
+---
+
+## 🧪 What is Computational Social Science?
+
+**Computational Social Science (CSS)** is an interdisciplinary field that merges behavioral science, statistics, and computing to study social systems and human behavior. CSS researchers use simulations, large datasets, and experimental methods to answer questions about how people interact both individually and in groups.
+
+As a CSS scholar, I integrate:
+- Social science theory (e.g., memory, social cognition)
+- Statistical modeling (e.g., decision metrics, regressions)
+- Real-world data (e.g., behavioral logs, survey responses)
+
+This approach prepares me to work across both **academia and industry**, especially in roles where psychological insight meets product innovation.
+
+---
+
+## 📬 Let’s Connect
+
+- 📫 Email: [alam@ucsd.edu](mailto:alam@ucsd.edu)
+- 🔗 LinkedIn: [linkedin.com/in/allan-lam](https://www.linkedin.com/in/allan-lam/)
