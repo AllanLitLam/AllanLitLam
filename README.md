@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 UXR Goals
+## UXR Goals 🧠 
 
 As a behavioral scientist transitioning into UX research, I combine rigorous experimental design with a deep interest in how people think, decide, and interact with complex systems. I approach user research scientifically, with clear hypotheses, structured observation, and data-driven insights.
 
@@ -16,7 +16,7 @@ I have:
 
 ---
 
-## 🔍 Current Research Interests
+## Current Research Interests 🔍 
 
 - **Eyewitness Identification**: Studying how visual similarity and task design affect decision accuracy in police lineups  
 - **Face Perception & Social Judgments**: Understanding how people form impressions of others based on visual cues  
@@ -24,7 +24,7 @@ I have:
 
 ---
 
-## 🛠️ Tools & Languages
+## Tools & Languages 🛠️ 
 
 - **Research Tools**: R, Qualtrics, dplyr, ggplot2, tidyverse  
 - **UX & Prototyping**: Figma, Notion, JavaScript  
@@ -32,7 +32,7 @@ I have:
 
 ---
 
-## 📚 Skills Snapshot
+## Skills Snapshot 📚 
 
 - Experimental Design (A/B testing, factorial designs)
 - ROC / Signal Detection Theory (discriminability modeling)
@@ -42,7 +42,7 @@ I have:
 
 ---
 
-## 🎯 Career Objective
+## Career Objective 🎯 
 
 I’m passionate about transforming cognitive theories into actionable insights that improve products, policies, and user experiences. Whether it’s refining a prototype or evaluating decision accuracy, I aim to bring clarity and rigor to complex human behavior.
 
@@ -53,13 +53,13 @@ As a UX researcher, I want to help teams:
 
 ---
 
-## ✨ Impact Statement
+## Impact Statement ✨ 
 
 I believe UX research is at its best when it combines the empathy of design with the structure of science. With a foundation in experimental psychology and a love for data, I aim to design for both usability and meaning, creating experiences that respect human limits while supporting human goals.
 
 ---
 
-## 🧪 What is Computational Social Science?
+## What is Computational Social Science?
 
 **Computational Social Science (CSS)** is an interdisciplinary field that merges behavioral science, statistics, and computing to study social systems and human behavior. CSS researchers use simulations, large datasets, and experimental methods to answer questions about how people interact both individually and in groups.
 
@@ -72,7 +72,10 @@ This approach prepares me to work across both **academia and industry**, especia
 
 ---
 
-## 📬 Let’s Connect
+## Let’s Connect
 
 - 📫 Email: [alam@ucsd.edu](mailto:alam@ucsd.edu)
 - 🔗 LinkedIn: [linkedin.com/in/allan-lam](https://www.linkedin.com/in/allan-lam/)
+
+## Resume 
+- 📄 [View my resume](./Allan_Lam_Resume.pdf)
