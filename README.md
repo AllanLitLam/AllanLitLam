@@ -8,7 +8,7 @@
 
 As a behavioral scientist transitioning into UX research, I combine rigorous experimental design with a deep interest in how people think, decide, and interact with complex systems. I approach user research scientifically, with clear hypotheses, structured observation, and data-driven insights.
 
-💼 I have:
+I have:
 - Designed multi-condition behavioral studies with hundreds of participants
 - Conducted ROC and signal detection analyses to evaluate user decision quality
 - Communicated insights to both technical and non-technical audiences
