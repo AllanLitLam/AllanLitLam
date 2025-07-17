@@ -49,7 +49,6 @@ I’m passionate about transforming cognitive theories into actionable insights 
 As a UX researcher, I want to help teams:
 - Make research-informed design decisions  
 - Understand user limitations and goals  
-- Reduce cognitive friction in digital systems  
 - Ensure that interfaces align with how people actually think and remember
 
 ---
