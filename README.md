@@ -1,12 +1,12 @@
 # Allan Lam
 
-👋 Hello! I’m a Ph.D. candidate in Experimental Psychology at UC San Diego, specializing in Computational Social Science. I study human memory and decision-making using behavioral experiments, statistical modeling, and data visualization. My current work focuses on applying psychological science to real-world problems, specifically from the legal systems to human-centered design.
+👋 Hello! I’m a Ph.D. candidate in Experimental Psychology at UC San Diego, specializing in Computational Social Science. I study human memory and decision-making using behavioral experiments, statistical modeling, and data visualization. My current work focuses on applying psychological science to real-world problems, from the legal systems to human-centered design.
 
 ---
 
 ## UXR Goals 🧠 
 
-As a behavioral scientist transitioning into UX research, I combine rigorous experimental design with a deep interest in how people think, decide, and interact with complex systems. I approach user research scientifically, with clear hypotheses, structured observation, and data-driven insights.
+As a behavioral scientist transitioning into UX research, I combine rigorous experimental design with a deep interest in how people interact with complex systems. I approach user research scientifically using data-driven insights.
 
 I have:
 - Designed multi-condition behavioral studies with hundreds of participants
@@ -43,8 +43,6 @@ I have:
 ---
 
 ## Career Objective 🎯 
-
-I’m passionate about transforming cognitive theories into actionable insights that improve products, policies, and user experiences. Whether it’s refining a prototype or evaluating decision accuracy, I aim to bring clarity and rigor to complex human behavior.
 
 As a UX researcher, I want to help teams:
 - Make research-informed design decisions  
