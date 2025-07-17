@@ -4,7 +4,7 @@
 
 ---
 
-## UXR Goals 🧠 
+## 🧠 UXR Goals 
 
 As a behavioral scientist transitioning into UX research, I combine rigorous experimental design with a deep interest in how people interact with complex systems. I approach user research scientifically using data-driven insights.
 
@@ -16,7 +16,7 @@ I have:
 
 ---
 
-## Current Research Interests 🔍 
+## 🔍 Current Research Interests 
 
 - **Eyewitness Identification**: Studying how visual similarity and task design affect decision accuracy in police lineups  
 - **Face Perception & Social Judgments**: Understanding how people form impressions of others based on visual cues  
@@ -24,7 +24,7 @@ I have:
 
 ---
 
-## Tools & Languages 🛠️ 
+## 🛠️ Tools & Languages 
 
 - **Research Tools**: R, Qualtrics, dplyr, ggplot2, tidyverse  
 - **UX & Prototyping**: Figma, Notion, JavaScript  
@@ -32,7 +32,7 @@ I have:
 
 ---
 
-## Skills Snapshot 📚 
+## 📚 Skills Snapshot 
 
 - Experimental Design (A/B testing, factorial designs)
 - ROC / Signal Detection Theory (discriminability modeling)
@@ -42,7 +42,7 @@ I have:
 
 ---
 
-## Career Objective 🎯 
+## 🎯 Career Objective 
 
 As a UX researcher, I want to help teams:
 - Make research-informed design decisions  
@@ -51,7 +51,7 @@ As a UX researcher, I want to help teams:
 
 ---
 
-## Impact Statement ✨ 
+## ✨ Impact Statement 
 
 I believe UX research is at its best when it combines the empathy of design with the structure of science. With a foundation in experimental psychology and a love for data, I aim to design for both usability and meaning, creating experiences that respect human limits while supporting human goals.
 
