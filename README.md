@@ -26,7 +26,8 @@ Hi! I’m a UX researcher with experience in both quantitative and qualitative r
 ## Current Focus Areas
 
 - Customer insights for toy and consumer product development  
-- Memory and decision-making in real-world tasks  
+- Memory and decision-making in real-world tasks
+- Social perception of faces
 - Data-driven storytelling and product strategy support  
 
 ---
