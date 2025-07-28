@@ -1,79 +1,44 @@
 # Allan Lam
 
-👋 Hello! I’m a Ph.D. candidate in Experimental Psychology at UC San Diego, specializing in Computational Social Science. I study human memory and decision-making using behavioral experiments, statistical modeling, and data visualization. My current work focuses on applying psychological science to real-world problems, from the legal systems to human-centered design.
+Hi! I’m a UX researcher with experience in both quantitative and qualitative research. I’m currently a Ph.D. candidate in Experimental Psychology at UC San Diego, specializing in Computational Social Science. I apply behavioral science and data analysis to solve real-world design problems.
 
 ---
 
-## 🧠 UXR Goals 
+## Summary
 
-As a behavioral scientist transitioning into UX research, I combine rigorous experimental design with a deep interest in how people interact with complex systems. I approach user research scientifically using data-driven insights.
-
-I have:
-- Designed multi-condition behavioral studies with hundreds of participants
-- Conducted ROC and signal detection analyses to evaluate user decision quality
-- Communicated insights to both technical and non-technical audiences
-- Taught ROC analysis and calibration analysis to undergraduate courses (PSYC162 Psychology and the Law) 
+- Led UX research and R&D for preschool and toy products during an internship  
+- Conducted A/B testing and behavioral experiments with 1000+ participants  
+- Analyzed large-scale data using R, spreadsheets, and statistical modeling  
+- Presented insights to stakeholders and contributed to product development  
+- Taught and mentored students in research design and data analysis  
 
 ---
 
-## 🔍 Current Research Interests 
+## Technical Skills
 
-- **Eyewitness Identification**: Studying how visual similarity and task design affect decision accuracy in police lineups  
-- **Face Perception & Social Judgments**: Understanding how people form impressions of others based on visual cues  
-- **Memory Models in Lineups**: Applying memory models to improve information display, attention guidance, and user choice
-
----
-
-## 🛠️ Tools & Languages 
-
-- **Research Tools**: R, Qualtrics, dplyr, ggplot2, tidyverse  
-- **UX & Prototyping**: Figma, Notion, JavaScript  
-- **Workflow**: GitHub, Markdown, Excel
+**Research & Analysis**: A/B Testing, Survey Design, Thematic Coding, User Interviews  
+**Data Tools**: R, SQL, Pivot Tables, Data Visualization, Qualtrics  
+**UX Tools**: Figma(basic), Notion, GitHub, HTML/CSS/JS  
+**Soft Skills**: Cross-functional Communication, Project Management, Leadership  
 
 ---
 
-## 📚 Skills Snapshot 
+## Current Focus Areas
 
-- Experimental Design (A/B testing, factorial designs)
-- ROC / Signal Detection Theory (discriminability modeling)
-- Generalized Linear Models (GLM, ANOVA, logistic regression)
-- User-Centered Research (survey design, task analysis, interview protocols)
-- Data Wrangling & Visualization (dplyr, ggplot2, tidyverse)
+- Customer insights for toy and consumer product development  
+- Memory and decision-making in real-world tasks  
+- Data-driven storytelling and product strategy support  
 
 ---
 
-## 🎯 Career Objective 
+## Career Goal
 
-As a UX researcher, I want to help teams:
-- Make research-informed design decisions  
-- Understand user limitations and goals  
-- Ensure that interfaces align with how people actually think and remember
+I want to help design teams make better decisions with behavioral insights. My goal is to connect what users say, do, and need—through evidence, not guesswork.
 
 ---
 
-## ✨ Impact Statement 
+## Contact
 
-I believe UX research is at its best when it combines the empathy of design with the structure of science. With a foundation in experimental psychology and a love for data, I aim to design for both usability and meaning, creating experiences that respect human limits while supporting human goals.
-
----
-
-## What is Computational Social Science?
-
-**Computational Social Science (CSS)** is an interdisciplinary field that merges behavioral science, statistics, and computing to study social systems and human behavior. CSS researchers use simulations, large datasets, and experimental methods to answer questions about how people interact both individually and in groups.
-
-As a CSS scholar, I integrate:
-- Social science theory (e.g., memory, social cognition)
-- Statistical modeling (e.g., decision metrics, regressions)
-- Real-world data (e.g., behavioral logs, survey responses)
-
-This approach prepares me to work across both **academia and industry**, especially in roles where psychological insight meets product innovation.
-
----
-
-## Let’s Connect
-
-- 📫 Email: [alam@ucsd.edu](mailto:alam@ucsd.edu)
-- 🔗 LinkedIn: [linkedin.com/in/allan-lam](https://www.linkedin.com/in/allan-lam/)
-
-## Resume 
-- 📄 [View my resume](./Allan_Lam_Resume.pdf)
+- 📫 Email: [alam@ucsd.edu](mailto:alam@ucsd.edu)  
+- 🔗 LinkedIn: [linkedin.com/in/allan-lam](https://www.linkedin.com/in/allan-lam/)  
+- 📄 [Resume](./Allan-Lam-Resume.pdf)
