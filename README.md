@@ -42,4 +42,4 @@ I want to help design teams make better decisions with behavioral insights. My g
 
 - 📫 Email: [alam@ucsd.edu](mailto:alam@ucsd.edu)  
 - 🔗 LinkedIn: [linkedin.com/in/allan-lam](https://www.linkedin.com/in/allan-lam/)  
-- 📄 [Resume](./Allan-Lam-Resume.pdf)
+- 📄 [Resume](./Allan_Lam_Resume.pdf)
