@@ -1,6 +1,6 @@
 # Allan Lam
 
-Hi! I’m a UX researcher with experience in both quantitative and qualitative research. I’m currently a Ph.D. candidate in Experimental Psychology at UC San Diego, specializing in Computational Social Science. I apply behavioral science and data analysis to solve real-world design problems.
+I am a researcher and analyst with a doctorate in Experimental Psychology and a specialization in Computational Social Science. My background spans user experience research, legal research, and academic research, giving me a unique perspective on how to gather, analyze, and apply data to solve complex problems. Whether I'm designing experiments, conducting user studies, or modeling complex datasets, I bring a rigorous, data-driven approach to understanding human behavior and decision-making. My passion for storytelling, honed through my interest in movies, informs my ability to communicate research findings in a compelling and accessible way to diverse audiences. I am adept at collaborating with cross-functional teams, managing projects effectively, and translating research insights into actionable recommendations.
 
 ---
 
