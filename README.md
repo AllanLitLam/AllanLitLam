@@ -10,7 +10,8 @@ I am a researcher and analyst with a doctorate in Experimental Psychology and a 
 - Conducted A/B testing and behavioral experiments with 1000+ participants  
 - Analyzed large-scale data using R, spreadsheets, and statistical modeling  
 - Presented insights to stakeholders and contributed to product development  
-- Taught and mentored students in research design and data analysis  
+- Mentored students in research design and data analysis
+- Taught undergraduate classes PSYC162 as an instructor 
 
 ---
 
