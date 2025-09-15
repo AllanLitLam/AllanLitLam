@@ -16,10 +16,10 @@ I am a researcher and analyst with a doctorate in Experimental Psychology and a 
 
 ## Technical Skills
 
-**Research & Analysis**: A/B Testing, Survey Design, Thematic Coding, User Interviews  
-**Data Tools**: R, SQL, Pivot Tables, Data Visualization, Qualtrics  
-**UX Tools**: Figma(basic), Notion, GitHub, HTML/CSS/JS  
-**Soft Skills**: Cross-functional Communication, Project Management, Leadership  
+**Research & Analysis**: A/B Testing, User Surveys, Competitive Analysis, Human Participants Recruiting (In-person & Online)
+**Data Analysis: Data Cleaning, Pivot Tables, Query, Statistical Analysis (ROC, NHST, GLMs), Data Visualization 
+**Data Tools**: Spreadsheets (Google, Excel), R, Tableau, SQL (BigQuery), Qualtrics, Notion, Git, MATLAB, JavaScript
+**Soft Skills**: R&D, Scientific Writing, Clear Communication, Data Presentation, Cross-Functional Collaboration, Speed-Accuracy Balance, Conflict Resolution, Leadership, Teaching, Mentorship
 
 ---
 
