@@ -1,6 +1,7 @@
 # Allan Lam
 
 I am a researcher and analyst with a doctorate in Experimental Psychology and a specialization in Computational Social Science. I leverage expertise in experimental design, data analysis, and research methodologies to investigate complex questions and generate actionable insights. My background spans computational social science research, user experience research in the toy industry, and legal research, allowing me to approach challenges from multiple perspectives. I excel at translating research findings into compelling narratives for diverse audiences, from academic peers to cross-functional product teams. My interest in storytelling informs my ability to connect with individuals on an emotional level, enriching my analytical work with a human-centered focus.
+
 ---
 
 ## Summary
