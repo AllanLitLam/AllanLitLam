@@ -8,7 +8,7 @@ A data-driven researcher and analyst with a PhD in Experimental Psychology and a
 
 - Led UX research and R&D for preschool and toy products during an internship  
 - Conducted A/B testing and behavioral experiments with 1000+ participants  
-- Analyzed large-scale data using R, spreadsheets, and statistical modeling  
+- Developed data analysis pipeline on large-scale data using R, spreadsheets, and statistical modeling  
 - Presented insights to stakeholders and contributed to product development  
 - Mentored students in research design and data analysis
 - Taught undergraduate classes PSYC162 as an instructor 
@@ -17,13 +17,13 @@ A data-driven researcher and analyst with a PhD in Experimental Psychology and a
 
 ## Technical Skills
 
-**Research & Analysis**: A/B Testing, User Surveys, Competitive Analysis, Human Participants Recruiting (In-person & Online)
+**Technical**: SQL, R, Python, A/B Testing, Experimental Design, Statistical Analysis (ROC, NHST, GLMs), Data Visualization (ggplot2, Tableau), Data Aggregation, Git, Notion
 
-**Data Analysis**: Data Cleaning, Pivot Tables, Query, Statistical Analysis (ROC, NHST, GLMs), Data Visualization 
+**Research & Analysis**: User Research (Qualtrics), Market Research, Quantitative & Qualitative Analysis, Critical Thinking, Scientific Writing, Problem Solving 
 
-**Data Tools**: Spreadsheets (Google, Excel), R, Tableau, SQL (BigQuery), Qualtrics, Notion, Git, MATLAB, JavaScript
+**Interpersonal**: Cross-functional Collaboration, Technical Communication, Data Presentation, Client Communication, Project Management, Mentoring
 
-**Soft Skills**: R&D, Scientific Writing, Clear Communication, Data Presentation, Cross-Functional Collaboration, Speed-Accuracy Balance, Conflict Resolution, Leadership, Teaching, Mentorship
+**Language**: English (Native), Chinese (Native)
 
 ---
 
@@ -38,7 +38,7 @@ A data-driven researcher and analyst with a PhD in Experimental Psychology and a
 
 ## Career Goal
 
-I want to help design teams make better decisions with behavioral insights. My goal is to connect what users say, do, and need—through evidence, not guesswork.
+I am passionate about using rigorous quantitative and data-driven methods to provide strategic perspectives for developing products and innovations.
 
 ---
 
