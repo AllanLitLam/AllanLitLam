@@ -1,49 +1,31 @@
-# Allan Lam
+### 👋 Hello! I'm Allan Lit Lam
 
-A data-driven researcher and analyst with a PhD in Experimental Psychology and a specialization in Computational Social Science. I provide quantitative support and a strategic perspective to partners by leveraging expertise in experimental design, statistical analysis, and data-driven storytelling to generate actionable insights for product development. My experience spans computational social science, UX R&D in the toy industry, and legal research. I excel at translating intricate research findings into compelling data narratives that inform product strategy and solve complex problems. My work is distinguished by a human-centered focus and the ability to apply rigorous methodology to real-world challenges.
-
----
-
-## Summary
-
-- Led UX research and R&D for preschool and toy products during an internship  
-- Conducted A/B testing and behavioral experiments with 1000+ participants  
-- Developed data analysis pipeline on large-scale data using R, spreadsheets, and statistical modeling  
-- Presented insights to stakeholders and contributed to product development  
-- Mentored students in research design and data analysis
-- Taught undergraduate classes PSYC162 as an instructor 
+I'm a **Computational Social Scientist (UCSD PhD Candidate)** passionate about converting complex business questions into actionable, statistically validated insights. My core focus is on applying rigorous research methodologies to real-world problems in business strategy, user experience, and behavioral research.
 
 ---
 
-## Technical Skills
+### 🛠️ My Data Analytics Toolkit
 
-**Technical**: SQL, R, Python, A/B Testing, Experimental Design, Statistical Analysis (ROC, NHST, GLMs), Data Visualization (ggplot2, Tableau), Data Aggregation, Git, Notion
+I specialize in advanced statistical modeling and data communication across the full analytical pipeline.
 
-**Research & Analysis**: User Research (Qualtrics), Market Research, Quantitative & Qualitative Analysis, Critical Thinking, Scientific Writing, Problem Solving 
-
-**Interpersonal**: Cross-functional Collaboration, Technical Communication, Data Presentation, Client Communication, Project Management, Mentoring
-
-**Language**: English (Native), Chinese (Native)
-
----
-
-## Current Focus Areas
-
-- Customer insights for toy and consumer product development  
-- Memory and decision-making in real-world tasks
-- Social perception of faces
-- Data-driven storytelling and product strategy support  
+| Category | Tools & Libraries |
+| :--- | :--- |
+| **Languages** | R (Tidyverse, ggplot2, advanced statistical packages), Python |
+| **Research Methods** | **ROC Analysis**, **Advanced Statistical Modeling (GLM, ANOVA, Regression)**, Survey Design, Experimental Methods |
+| **Databases & Tools** | SQL, Git, Tableau, Power BI|
 
 ---
 
-## Career Goal
+### 🚀 Projects & Focus
 
-I am passionate about using rigorous quantitative and data-driven methods to provide strategic perspectives for developing products and innovations.
+* My pinned projects demonstrate the end-to-end analytical workflow: from data wrangling and statistical modeling to clear, actionable recommendations. **I encourage you to view the [Cyclistic Bike-Share Case Study](LINK-TO-CYCLISTIC-REPO).**
 
 ---
 
-## Contact
+### 🤝 Let's Connect
 
-- 📫 Email: [alam@ucsd.edu](mailto:alam@ucsd.edu)  
-- 🔗 LinkedIn: [linkedin.com/in/allan-lam](https://www.linkedin.com/in/allan-lam/)  
-- 📄 [Resume](./Allan_Lam_Resume.pdf)
+| Platform | Link |
+| :--- | :--- |
+| 📧 Email | [alam@ucsd.edu](mailto:alam@ucsd.edu)   |
+| 🔗 LinkedIn | [linkedin.com/in/allan-lam](https://www.linkedin.com/in/allan-lam/)   |
+| 📝 Resume| [Resume](./Allan_Lam_Resume.pdf)  |
