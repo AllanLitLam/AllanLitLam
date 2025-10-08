@@ -12,7 +12,7 @@ I specialize in advanced statistical modeling and **mixed-methods research**, br
 | :--- | :--- |
 | **Languages** | R (Tidyverse, ggplot2, specialized statistical packages), Python (Pandas, Scikit-learn, NumPy) |
 | **Research Methods** | **Causal Inference**, **Mixed-Methods Analysis (Qualitative & Quantitative)**, **Survey Design (Psychometrics)**, Experimental Methods, **Behavioral Modeling** |
-| **Databases & Tools** | SQL, Git, Tableau, Power BI, Stata/SPSS (if applicable) |
+| **Databases & Tools** | SQL, Git, Tableau, Power BI, Stata/SPSS  |
 | **Cloud** | Familiar with Google Cloud Platform (GCP) and AWS services for data storage |
 
 ---
