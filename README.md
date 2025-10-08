@@ -6,7 +6,7 @@ I'm a **Computational Social Scientist (UCSD PhD Candidate)** passionate about c
 
 ### 🛠️ My Data Science Toolkit
 
-I specialize in advanced statistical modeling and **mixed-methods research**, bridging quantitative rigor with an understanding of human behavior.
+I specialize in advanced statistical modeling and **mixed-methods research**. I bridge quantitative rigor with an understanding of human behavior.
 
 | Category | Tools & Libraries |
 | :--- | :--- |
