@@ -4,15 +4,16 @@ I'm a **Computational Social Scientist (UCSD PhD Candidate)** passionate about c
 
 ---
 
-### 🛠️ My Data Analytics Toolkit
+### 🛠️ My Data Science Toolkit
 
-I specialize in advanced statistical modeling and data communication across the full analytical pipeline.
+I specialize in advanced statistical modeling and **mixed-methods research**, bridging quantitative rigor with an understanding of human behavior.
 
 | Category | Tools & Libraries |
 | :--- | :--- |
-| **Languages** | R (Tidyverse, ggplot2, advanced statistical packages), Python |
-| **Research Methods** | **ROC Analysis**, **Advanced Statistical Modeling (GLM, ANOVA, Regression)**, Survey Design, Experimental Methods |
-| **Databases & Tools** | SQL, Git, Tableau, Power BI|
+| **Languages** | R (Tidyverse, ggplot2, specialized statistical packages), Python (Pandas, Scikit-learn, NumPy) |
+| **Research Methods** | **Causal Inference**, **Mixed-Methods Analysis (Qualitative & Quantitative)**, **Survey Design (Psychometrics)**, Experimental Methods, **Behavioral Modeling** |
+| **Databases & Tools** | SQL, Git, Tableau, Power BI, Stata/SPSS (if applicable) |
+| **Cloud** | Familiar with Google Cloud Platform (GCP) and AWS services for data storage |
 
 ---
 
