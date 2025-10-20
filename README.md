@@ -1,25 +1,32 @@
 ### 👋 Hello! I'm Allan Lit Lam
 
-I'm a **Computational Social Scientist (UCSD PhD Candidate)** passionate about converting complex business questions into actionable, statistically validated insights. My core focus is on applying rigorous research methodologies to real-world problems in business strategy, user experience, and behavioral research.
+I am a **Computational Social Scientist (UCSD PhD Candidate)** who translates complex behavioral and scientific data into actionable policy and profitable strategy using rigorous statistical modeling, machine learning, and quantitative analysis.
+
+---
+### 🚀 Featured Impact & Expertise
+
+**Eyewitness Confidence: Driving Judicial Reform**
+
+My [research](https://github.com/AllanLitLam/diagnostic-eyewitnesss-confidence-at-initial-test) established the new scientific consensus on eyewitness reliability. The findings confirmed that only an **immediate, initial confidence statement is diagnostic of accuracy**, leading to the overturn of a wrongful conviction after 25 years.
 
 ---
 
 ### 🛠️ My Data Science Toolkit
-
-I specialize in advanced statistical modeling and **mixed-methods research**. I bridge these analytical methods to model human behavior.
-
-| Category | Tools & Libraries |
+| Category | Tools |
 | :--- | :--- |
-| **Languages** | R (Tidyverse, ggplot2, specialized statistical packages), Python (Pandas, Scikit-learn, NumPy) |
-| **Research Methods** | Causal Inference, Mixed-Methods Analysis (Qualitative & Quantitative), Survey Design (Psychometrics), Experimental Methods, Behavioral Modeling |
-| **Databases & Tools** | SQL, Git, Tableau, Power BI, Stata/SPSS  |
-| **Cloud** | Familiar with Google Cloud Platform (GCP) and AWS services for data storage |
+| **Programming** | R (Tidyverse, ggplot2, specialized statistical packages), Python (Pandas, Scikit-learn, NumPy) |
+| **Research Methods** |  Survey (Psychometrics), Experimental Methods, Mixed-Methods Analysis (Qualitative & Quantitative), Causal Inference |
+| **Statistics** | ANOVA, ROC Analysis, Generalized Linear Models (GLM), Linear Mixed-Effects Model (LMER),  |
+| **Databases & ML** | NLP (Topic Modeling), Classification (Lasso, Naïve Bayes), SQL |
+| **Visualization** | ggplot2, Tabluea, Dashboards |
 
 ---
 
-### 🚀 Projects & Focus
+### 📁 Portfolio Highlights (Pinned Repositories)
 
-* My pinned projects demonstrate the end-to-end analytical workflow: from data wrangling and statistical modeling to clear, actionable recommendations. **I encourage you to view the [Cyclistic Bike-Share Case Study](LINK-TO-CYCLISTIC-REPO).**
+* [Cyclistic Bike-Share Case Study](https://github.com/AllanLitLam/case-study-cyclistic): **Modeled user behavior (GLM)** to increase annual membership conversion by incentivizing long-duration, leisure-focused weekend trips.
+* [Fake News vs. Hard Content](https://github.com/AllanLitLam/fake-news-vs-hard-content): Used **NLP Topic Modeling** to show that misinformation strategically focuses on non-political soft topics (health, lifestyle) to maximize propagation, providing a blueprint for counter-misinformation.
+* [Filler Similarity Effect on Lineup Memory Performance](https://github.com/AllanLitLam/filler-similarity-and-lineup-size-effect-on-memory-performance): Applied **Signal Detection Theory** to judicial policy, demonstrating that the optimal lineup size is critically dependent on filler similarity.
 
 ---
 
