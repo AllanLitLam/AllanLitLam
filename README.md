@@ -29,4 +29,3 @@ I specialize in advanced statistical modeling and **mixed-methods research**. I 
 | :--- | :--- |
 | 📧 Email | [alam@ucsd.edu](mailto:alam@ucsd.edu)   |
 | 🔗 LinkedIn | [linkedin.com/in/allan-lam](https://www.linkedin.com/in/allan-lam/)   |
-| 📝 Resume| [Resume](./Allan_Lam_Resume.pdf)  |
