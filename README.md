@@ -7,7 +7,7 @@ I am a **Computational Social Scientist (UCSD PhD Candidate in Cognitive Psychol
 
 **Eyewitness Confidence: Driving Judicial Reform**
 
-My [research](https://github.com/AllanLitLam/diagnostic-eyewitnesss-confidence-at-initial-test) established the new scientific consensus on eyewitness reliability. The findings confirmed that only an **immediate, initial confidence statement is diagnostic of accuracy**, leading to the overturn of a wrongful conviction after 25 years.
+My [research](https://github.com/AllanLitLam/diagnostic-eyewitnesss-confidence-at-initial-test) contributed to the new scientific consensus on eyewitness reliability. The findings confirmed that only an **immediate, initial confidence statement is diagnostic of accuracy**, leading to the overturn of a wrongful conviction after 25 years in prison.
 
 ---
 
