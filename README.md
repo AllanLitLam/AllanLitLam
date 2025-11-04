@@ -22,7 +22,7 @@ My [research](https://github.com/AllanLitLam/diagnostic-eyewitnesss-confidence-a
 
 ---
 
-### 📁 Portfolio Highlights (Pinned Repositories)
+### 📊 Project Highlights (Pinned Repositories)
 
 * [Cyclistic Bike-Share Case Study](https://github.com/AllanLitLam/case-study-cyclistic): **Modeled user behavior (GLM)** to increase annual membership conversion by incentivizing long-duration, leisure-focused weekend trips.
 * [Fake News vs. Hard Content](https://github.com/AllanLitLam/fake-news-vs-hard-content): Used **NLP Topic Modeling** to show that misinformation strategically focuses on non-political soft topics (health, lifestyle) to maximize propagation, providing a blueprint for counter-misinformation.
@@ -36,3 +36,4 @@ My [research](https://github.com/AllanLitLam/diagnostic-eyewitnesss-confidence-a
 | :--- | :--- |
 | 📧 Email | [alam@ucsd.edu](mailto:alam@ucsd.edu)   |
 | 🔗 LinkedIn | [linkedin.com/in/allan-lam](https://www.linkedin.com/in/allan-lam/)   |
+| 📁 Portfolio | [Portfolio](https://docs.google.com/presentation/d/1odTXQFCPWyVBf4dgq0OUD03Zl_KNqcp9ld2D2uu-Kx8/edit?usp=sharing) |
