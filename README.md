@@ -1,6 +1,6 @@
 ### 👋 Hello! I'm Allan Lit Lam
 
-I am a **Computational Social Scientist (UCSD PhD Candidate in Cognitive Psychology)** who translates complex behavioral and scientific data into actionable policy and profitable strategy using rigorous statistical modeling, machine learning, and quantitative analysis.
+I am a **Quantitative UX Researcher  (UCSD PhD Candidate in Cognitive Psychology)** who translates complex behavioral and scientific data into actionable policy and profitable strategy using rigorous statistical modeling, machine learning, and quantitative analysis.
 
 ---
 ### 🚀 Featured Impact & Expertise
