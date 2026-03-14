@@ -37,4 +37,4 @@ My [research](https://github.com/AllanLitLam/diagnostic-eyewitnesss-confidence-a
 | 📄 Resume | [Resume](https://drive.google.com/file/d/19wSHXeb02c9LZlixxz1vUtx_X2yc9nJf/view?usp=drive_link)   |
 | 📧 Email | [alam@ucsd.edu](mailto:alam@ucsd.edu)   |
 | 🔗 LinkedIn | [linkedin.com/in/allan-lam](https://www.linkedin.com/in/allan-lam/)   |
-| 📁 Portfolio | [Portfolio](https://docs.google.com/presentation/d/1odTXQFCPWyVBf4dgq0OUD03Zl_KNqcp9ld2D2uu-Kx8/edit?usp=sharing](https://www.notion.so/Allan-Lam-Quant-UX-Researcher-Behavioral-Data-Scientist-30eb79b2bf188079bcf4e705e3ee764f)) |
+| 📁 Portfolio | [Portfolio](https://www.notion.so/Allan-Lam-Quant-UX-Researcher-Behavioral-Data-Scientist-30eb79b2bf188079bcf4e705e3ee764f) |
